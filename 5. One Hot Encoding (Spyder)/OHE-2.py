@@ -1,6 +1,6 @@
 
 
-#A pyhton program to understand how to encode categorical variables using One Hot Encdoing technique
+#A python program to understand how to encode categorical variables using One Hot Encdoing technique
 
 #one hot encoding using sklearn OneHotEncoding
 import pandas as pd

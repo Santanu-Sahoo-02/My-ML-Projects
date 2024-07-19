@@ -1,7 +1,7 @@
 
 
 ##Important
-#Pprogram-2 on MLR
+#Program-2 on MLR
 
 import pandas as pd
 df=pd.read_excel(r"ca11-03homes.xls")
