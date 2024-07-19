@@ -76,7 +76,7 @@ Program 1: To use KNN model on Indian diabetes patients database and predict  wh
 ### 14: Decision Trees
 Program 1: To apply DecisionTreeClassifier Machine Learning Model to take a  decision whether to play cricket or not under given conditions.
 
-Prograrn 2: To use a decision tree machine learning  model to analyse employee salary data of various companies and then predict the salary of a new employee.
+Program 2: To use a decision tree machine learning  model to analyse employee salary data of various companies and then predict the salary of a new employee.
 
 ### 15: Random Forest
 Program 1: To train the Random Forest on the scikit digits dataset and check if  the model is correctly predicting the handwritten digits.
@@ -87,14 +87,13 @@ Program 2: To train the Random Forest Classifier Machine Learning model on Emplo
 ### 16: K-Means Clustering
 Program 1: To use K- Means Machine Learming model and classify the employees into various income groups or clusters.
 
-Progranm 2: To classify the iris flowers data set using K-Means Clustering model depending on petal length and petal widths of the flowers.
+Program 2: To classify the iris flowers data set using K-Means Clustering model depending on petal length and petal widths of the flowers.
 
 ### 17: Apriori Algorithm
-Program 1: To use Apriori algorithm on Market Basket Analysis to find the items which are bought together. [Minimum 2 or more items should be considered
-with 4 times more likelihood that a customer purchases these items in combination.]
+Program 1: To use Apriori algorithm on Market Basket Analysis to find the items which are bought together. [Minimum 2 or more items should be considered with 4 times more likelihood that a customer purchases these items in combination.]
 
 ### 18: Principal Component Analysis (PCA)
-Program l: To take iris flowers data set and reduce the 4D into 1D using PCA and then train the model and predict a new flower with given measurements.
+Program 1: To take iris flowers data set and reduce the 4D into 1D using PCA and then train the model and predict a new flower with given measurements.
 Program 2: To take iris flowers data set and reduce the 4D data into 2D using PCA. Then train the model and predict a new flower with given measurements.
 
 
