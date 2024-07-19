@@ -31,23 +31,23 @@ Program 2: To encode categorical variables using One hot encoding technique.
 Program 3: To plot data points on a regression plot to see if Linear regression model can be applied, and to then build a model. [DATASET: carprices.csv]
 
 ### 6: Polynomial Linear Regression 
-Program l: TO fit the Simple Linear Regression and Polynomial Linear  Regression models to Salary_Position.csv data and to find which one is more
+Program 1: TO fit the Simple Linear Regression and Polynomial Linear  Regression models to Salary_Position.csv data and to find which one is more
 accurately fitting to the given data. Also to predict the salaries of employees.
 
 Program 2: To take Salary_Experience.csv dataset and do analysis with  Polynomial Linear Regression for the degree 5 and to do the following 
-a) draw the scatter plot with regression line b) find coefficients, intercept, accuracy of your model and e) predict the salary of an employee having certain years of experience.
+a) draw the scatter plot with regression line b) find coefficients, intercept, accuracy of model and e) predict the salary of an employee having certain years of experience.
 
 ### 7: Ridge Regression
-Program 1:To use train. csv and test.csv files to retrieve training and testing data. To fit Simple Linear Regression on training data and Ridge Regression on testing data. Also, to predict height of a person having certain weight.
+Program 1: To use train. csv and test.csv files to retrieve training and testing data. To fit Simple Linear Regression on training data and Ridge Regression on testing data. Also, to predict height of a person having certain weight.
 
 Program 2: To use boston_houses.csv and by taking only 'RM' and Price' of the  houses, divide the data as training and testing data. Finally, to fit the line using Ridge regression and find the price of a house if it contains some certain rooms.
 
 ### 8: Lasso Regression
 Program 1: To use Lasso regression on Boston house prices, and select the best feature that mostly influences the output (price of the house).
 
-Program 2: To find out  which media has infiuenced sales more using Lasso Regression model [Given the money spent on TV, radio and newspaper]
+Program 2: To find out which media has infiuenced sales more using Lasso Regression model [Given the money spent on TV, radio and newspaper]
 
-### 9: Elasticnet Regression
+### 9: ElasticNet Regression
 Program 1: To select the most appropriate feature of Boston housing dataset  using Elastic Net Regression model.
 
 Program 2: To create ElasticNet model and find out  which factor is most determining factor for diabetes in Indians.
